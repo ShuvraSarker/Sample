@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544298681 source:d:\12th semester\graphics lab\door\door.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glut.h>
+	<string.h>
+
